@@ -4,3 +4,5 @@ build project
 build is completed
 run the test
 build was prograssing
+build completed
+intigate to jenkins
