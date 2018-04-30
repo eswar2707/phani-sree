@@ -4,8 +4,9 @@ build project
 build is completed
 run the test
 build was prograssing
-
-
-
+<<<<<<< HEAD
+build completed
+intigate to jenkins
+=======
 frist test to the code and depoly it
-
+>>>>>>> app1.0
